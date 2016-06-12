@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // 新的循环开始了!
+
+        // 这是哥哥写的代码
     }
 }
